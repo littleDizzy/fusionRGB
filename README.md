@@ -41,7 +41,6 @@ Run the Script: ​​which will:
 •Output classification results (e.g., accuracy, confusion matrix)
 
 
-# Image dataset
-This repository holds the fused image dataset obtained by the three methods used in the paper, you can download our pre-generated image dataset directly via this link: https://pan.baidu.com/s/1wpeyyCUKfFVbxMQ2E5iFig?pwd=q91d.  passwoard:q91d
+
 
 
