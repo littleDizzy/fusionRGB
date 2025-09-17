@@ -1,6 +1,0 @@
-Using NTFD.m
-
-
-
-
-
